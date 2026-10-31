@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse - Municipal Grievance & Service Redressal Portal",
+  "description": "An authoritative, responsive civic technology platform for municipal grievance intake, real-time SLA tracking, department resolution workflows, and civic transparency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
